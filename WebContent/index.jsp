@@ -13,6 +13,10 @@
 	
 	<a href="scriplet-tag.jsp"> JSP Scriplet Element</a>  || 
 	<a href="expression-tag.jsp"> JSP Expression Element</a>    ||
-	<a href="declaration-tag.jsp"> JSP Declarative Element</a>
+	<a href="declaration-tag.jsp"> JSP Declarative Element</a>  ||  <br><br><br>
+	
+	<a href="implicit-object/implicit-object.jsp"> JSP Implicit Object</a>
+	
+	
 </body>
 </html>
